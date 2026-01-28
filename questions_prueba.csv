@@ -1,0 +1,7 @@
+id;asignatura;tipo;pregunta;opciones;respuesta_correcta;extra
+L102;Lengua;verdadero_falso;Los instrumentos se agrupan por familias porque suenan parecido;Verdadero|Falso;VERDADERO;
+L105;Lengua;ordenar;Ordena los versos para formar un poema;Verso1|Verso2|Verso3;Verso1|Verso2|Verso3;Pista: sigue el orden de lectura
+L108;Lengua;arrastrar;Empareja partes de poema y funcion;Titulo|Verso|Rima;Nombre|Linea|Sonido;Pista: cada parte con su funcion
+L109;Lengua;test;"Que instrumento es de cuerda pulsada?;Guitarra|Violin|Flauta|Tambor;Guitarra;
+G001;Listening;listening;I like listening cats;I like cats|I hate mouses|I like dogs;I like cats;Pista: Listening
+G002;Listening;guess;I like guess cats;I like cats|I hate mouse|I like dogs;I like cats;Pista: Guess

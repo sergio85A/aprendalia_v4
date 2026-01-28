@@ -1,7 +1,958 @@
 id;asignatura;tipo;pregunta;opciones;respuesta_correcta;extra
+I001;Ingles;ordenar;Order the words to make a sentence;I|like|apples;I|like|apples;Pista: sujeto-verbo-objeto
+I002;Ingles;test;Choose the correct possessive: ___ apple (for a girl);Her|His|Our;Her;
+I003;Ingles;verdadero_falso;These is used for things near;Verdadero|Falso;VERDADERO;
+I004;Ingles;test;Choose the correct: These/Those;Those|These;Those;Pista: lejos
+I005;Ingles;test;Choose the correct spelling;UK|U.K.|Unk;UK;Pista: pais en Europa
+I006;Ingles;escribir;Write the country: USA;;USA;Pista: North America
+I007;Ingles;ordenar;Order the words to make a sentence;We|like|apples;We|like|apples;We like apples
+I008;Ingles;arrastrar;Drag the countries to the correct continent;Spain|India|USA;Europe|Asia|America;
+I009;Ingles;test;Which word is correct? His/Her/Our/Their;His|Her|Our|Their;His;Pista: belongs to a boy
+I010;Ingles;test;Choose the correct spelling;Train|Traiin|Trane;Train;Pista: vehiculo sobre rieles
+I011;Ingles;test;On which continent is the UK located?;North America|Europe|Asia;Europe;
+I012;Ingles;test;Which word is correct? His/Her/Our/Their;Her|His|Our|Their;Her;Pista: belongs to a girl
+I013;Ingles;test;Choose the correct spelling;Playground|Playgrond|Plaayground;Playground;Pista: lugar para jugar
+I014;Ingles;arrastrar;Match country with fruit;USA|Spain|India;Apple|Orange|Mango;Pista: fruta tipica
+I015;Ingles;test;Which word is correct? His/Her/Our/Their;Their|His|Her|Our;Their;Pista: pertenece a ellos
+I016;Ingles;test;Which word has the sound "ay"?;Play|Rain|Tree;Play;
+I017;Ingles;test;On which continent is the USA located?;North America|Europe|Asia;North America;
+I018;Ingles;test;Choose the correct: These/Those;These|Those;These;Pista: cerca
+I019;Ingles;verdadero_falso;Banana is a fruit;Verdadero|Falso;VERDADERO;
+I020;Ingles;test;Choose the correct spelling;Play|Plai|Playt;Play;Pista: verbo: jugar
+I021;Ingles;verdadero_falso;Play has the sound "ay"?;Verdadero|Falso;VERDADERO;
+I022;Ingles;test;Choose the correct spelling;This|Thiss|Thiz;This;Pista: singular cerca del hablante
+I023;Ingles;verdadero_falso;Rain has the sound "ai"?;Verdadero|Falso;VERDADERO;
+I024;Ingles;test;Choose the correct possessive: ___ bag (for a girl);Her|His|Their;Her;
+I025;Ingles;test;Choose the correct possessive: ___ house (for us);Our|Their|His;Our;
+I026;Ingles;verdadero_falso;Her is used for a boy;Verdadero|Falso;FALSO;
+I027;Ingles;test;Choose the correct spelling;Neew Zeland|New Zealand|New Zeland;New Zealand;Pista: pais en Oceania
+I028;Ingles;test;Choose the correct spelling;Indiia|India|Indea;India;Pista: pais de Asia
+I029;Ingles;escribir;Write the country: New Zealand;;New Zealand;Pista: Oceania
+I030;Ingles;escribir;Write a fruit in English;;Apple;Pista: Puede ser roja _  verde o amarilla
+I031;Ingles;test;Choose the correct spelling;Her|Herr|Hir;Her;Pista: posesivo de ella
+I032;Ingles;test;Choose the correct possessive: ___ book (for a boy);His|Her|Our;His;
+I033;Ingles;ordenar;Order the words to make a sentence;We|like|bananas;We|like|bananas;
+I034;Ingles;escribir;Write another fruit in English;;Banana;Pista: Amarillo por fuera _  blanco por dentro
+I035;Ingles;test;Choose the correct spelling;Spainn|Spain|Spane;Spain;Pista: pais en Europa
+I036;Ingles;ordenar;Order the words to make a sentence;We|like|mango;We|like|mango;
+I037;Ingles;escribir;Write the country: Poland;;Poland;Pista: Europa
+I038;Ingles;arrastrar;Drag the countries to the correct continent;Canada|Spain|India;America|Europe|Asia;Pista: continente
+I039;Ingles;escribir;Write the country: Brazil;;Brazil;Pista: America del Sur
+I040;Ingles;test;Which fruit is yellow?;Banana|Apple|Grape;Banana;
+I041;Ingles;test;Choose the correct spelling;Our|Ourr|Or;Our;Pista: posesivo de nosotros
+I042;Ingles;ordenar;Order the words to make a sentence;She|likes|apple;She|likes|apple;
+I043;Ingles;test;Choose the correct spelling;Strawberry|Strawbery|Strawberri;Strawberry;Pista: fruta roja
+I044;Ingles;test;Which fruit is green?;Pear|Banana|Strawberry;Pear;
+I045;Ingles;ordenar;Order the sentence: I / like / mango;I|like|mango;I|like|mango;Pista: sujeto-verbo-objeto
+I046;Ingles;test;On which continent is Mexico located?;North America|South America|Africa;South America;
+I047;Ingles;test;Which word is correct? His/Her/Our/Their;His|Her|Our|Their;Our;Pista: grupo con nosotros
+I048;Ingles;ordenar;Order the sentence: I / like / apple;I|like|apple;I|like|apple;Pista: sujeto-verbo-objeto
+I049;Ingles;test;On which continent is China located?;North America|Europe|Asia;Asia;
+I050;Ingles;test;On which continent is India located?;North America|Asia|Africa;Asia;
+I051;Ingles;escribir;Write the country: Mexico;;Mexico;Pista: America
+I052;Ingles;verdadero_falso;His is used for a boy;Verdadero|Falso;VERDADERO;
+I053;Ingles;test;Choose the correct spelling;Those|Thos|Thoose;Those;Pista: lejos del hablante
+I054;Ingles;escribir;Write another country in English;;Canada;Pista: Una hoja de arce en la bandera
+I055;Ingles;test;Choose the correct spelling;That|Thaat|Tat;That;Pista: singular lejos del hablante
+I056;Ingles;ordenar;Order the sentence: I / like / banana;I|like|banana;I|like|banana;Pista: sujeto-verbo-objeto
+I057;Ingles;test;Which one is a fruit?;Apple|Chair|Table;Apple;
+I058;Ingles;test;Choose the correct possessive: ___ toys (for them);Their|Our|Her;Their;
+I059;Ingles;arrastrar;Match the country with the fruit;Banana|Apple|Orange;Brazil|USA|Spain;
+I060;Ingles;ordenar;Order the words to make a sentence;He|likes|apple;He|likes|apple;He likes apple
+I061;Ingles;escribir;Write the country: China;;China;Pista: Asia
+I062;Ingles;test;Choose the correct spelling;Oranje|Orange|Oranj;Orange;Pista: fruta citrica
+I063;Ingles;test;Which country is located in Asia?;China|USA|Canada;China;
+I064;Ingles;arrastrar;Drag the words to the correct group;Apple|Banana|Chair;Fruit|Fruit|Object;
+I065;Ingles;escribir;Write the country: Canada;;Canada;Pista: America del Norte
+I066;Ingles;test;On which continent is New Zealand located?;Asia|Europe|Oceania;Oceania;
+I067;Ingles;test;Which word has the sound "ay"?;Play|Rain|Book;Play;
+I068;Ingles;escribir;Write the country: India;;India;Pista: Asia
+I069;Ingles;test;Choose the correct spelling;Banana|Bannana|Bananna;Banana;Pista: fruta amarilla
+I070;Ingles;arrastrar;Match the fruit with the country;Mango|Orange|Banana;India|Spain|Brazil;Pista: fruta tipica
+I071;Ingles;ordenar;Order the sentence;These|are|apples;These|are|apples;
+I072;Ingles;ordenar;Order the words to make a sentence;She|likes|banana;She|likes|banana;
+I073;Ingles;test;Which word has the sound "ai"?;Rain|Play|Toy;Rain;
+I074;Ingles;verdadero_falso;Chair is a fruit;Verdadero|Falso;FALSO;
+I075;Ingles;ordenar;Order the sentence: They / like / mango;They|like|mango;They|like|mango;Pista: sujeto-verbo-objeto
+I076;Ingles;verdadero_falso;Those is used for things near;Verdadero|Falso;FALSO;
+I077;Ingles;ordenar;Order the sentence: They / like / apples;They|like|apples;They|like|apples;Pista: sujeto-verbo-objeto
+I078;Ingles;test;Which one is a fruit?;Orange|Pen|Bag;Orange;
+I079;Ingles;verdadero_falso;Apple is a fruit;Verdadero|Falso;VERDADERO;
+I080;Ingles;test;Choose the correct word: ___ are apples (near);These|Those;These;
+I081;Ingles;test;Which fruit is red?;Apple|Lemon|Pear;Apple;
+I082;Ingles;ordenar;Order the sentence: They / like / banana;They|like|banana;They|like|banana;Pista: sujeto-verbo-objeto
+I083;Ingles;test;Which word is NOT a fruit?;Chair|Apple|Banana;Chair;
+I084;Ingles;test;Choose the correct word: ___ are bananas (far);Those|These;Those;
+I085;Ingles;test;On which continent is Canada located?;North America|Europe|Africa;North America;
+I086;Ingles;ordenar;Order the sentence;Those|are|bananas;Those|are|bananas;
+I087;Ingles;test;Choose the correct spelling;Say|Sai|Sayy;Say;Pista: verbo: decir
+I088;Ingles;test;Which country is located in Europe?;USA|UK|India;UK;
+I089;Ingles;ordenar;Order the words to make a sentence;We|like|fruits;We|like|fruits;Pista: sujeto-verbo-objeto
+I090;Ingles;arrastrar;Match the fruit with the country;Apple|Mango|Banana;USA|India|Brazil;Pista: fruta tipica
+I091;Ingles;test;Choose the correct spelling;Appple|Apple|Aple;Apple;Pista: fruta roja
+I092;Ingles;test;On which continent is Poland located?;North America|Europe|Asia;Europe;
+I093;Ingles;test;Choose the correct spelling;Chine|China|Chinna;China;Pista: pais en Asia
+I094;Ingles;test;Choose the correct spelling;USA|US|U.S.A.;USA;Pista: America del Norte
+I095;Ingles;test;Choose the correct spelling;Mango|Manggo|Manngo;Mango;Pista: fruta tropical
+I096;Ingles;escribir;Write the country: Spain;;Spain;Pista: Europa
+I097;Ingles;test;On which continent is Spain located?;North America|Europe|Asia;Europe;
+I098;Ingles;escribir;Write a country in English;;Spain;Pista: Donde vives
+I099;Ingles;test;Choose the correct spelling;Their|Thier|There;Their;Pista: posesivo de ellos
+I100;Ingles;test;Which country is located in America?;Spain|Mexico|China;Spain;
+I101;Ingles;arrastrar;Match country with fruit;Brazil|USA|Spain;Banana|Apple|Orange;Pista: fruta tipica
+I102;Ingles;test;Which one is a fruit?;Banana|Car|Book;Banana;
+I103;Ingles;ordenar;Order the words to make a sentence;He|likes|mango;He|likes|mango;
+I104;Ingles;test;Choose the correct possessive: ___ banana (for a boy);His|Her|Their;His;
+I105;Ingles;test;Choose the correct spelling;Raain|Rain|Raine;Rain;"Pista: contiene ""ai"""
+I106;Ingles;test;Choose the correct spelling;Day|Dai|Daay;Day;Pista: unidad de tiempo
+I107;Ingles;test;Choose the correct spelling;Rainbow|Raiinbow|Rainbaw;Rainbow;Pista: arco en el cielo
+I108;Ingles;ordenar;Order the words to make a sentence;He|likes|banana;He|likes|banana;
+I109;Ingles;arrastrar;Match the fruit with the country;Orange|Mango|Apple;Spain|India|USA;
+I110;Ingles;test;Choose the correct spelling;These|Thes|Thees;These;Pista: cerca del hablante
+I111;Ingles;test;Choose the correct spelling;Cannda|Canada|Caneda;Canada;Pista: Norteamerica
+L001;Lengua;ordenar;Ordena palabras para caligrama;Palabra1|Palabra2|Palabra3;Palabra1|Palabra2|Palabra3;Pista: forma correcta
+L002;Lengua;escribir;Escribe la familia de la flauta;;Viento;Pista: sopla aire
+L003;Lengua;test;"Cual instrumento es de viento?;Flauta|Guitarra|Tambor;Flauta;Pista: sopla aire
+L004;Lengua;escribir;"Que hay que hacer para captar la atencion al recitar?;;Hablar claro;
+L005;Lengua;test;"Por que se agrupan los instrumentos en familias?;Porque se tocan igual|Porque suenan parecido|Porque son grandes;Porque suenan parecido;
+L006;Lengua;arrastrar;Clasifica textos;Poema|Noticia;Poesia|Informativo;
+L007;Lengua;escribir;Escribe un instrumento de viento;;Flauta;Pista: sopla aire
+L008;Lengua;verdadero_falso;La poesia no se puede dibujar;Verdadero|Falso;FALSO;
+L009;Lengua;test;"Que palabra es del campo semantico de musica?;Tambor|Mesa|Silla;Tambor;
+L010;Lengua;ordenar;Ordena un poema;Titulo|Versos|Rima;Titulo|Versos|Rima;
+L011;Lengua;arrastrar;Empareja poemas y rimas;Lirico|epico|Narrativo;ABAB|AABB|ABC;Pista: patron correcto
+L012;Lengua;arrastrar;Empareja instrumento y familia;Violin|Flauta|Tambor;Cuerda|Viento|Percusion;Pista: familia correcta
+L013;Lengua;test;"Cual instrumento es de viento?;Saxofon|Guitarra|Tambor;Saxofon;Pista: sopla aire
+L014;Lengua;escribir;Escribe parte de guitarra;;Cuerdas;Pista: se pulsan
+L015;Lengua;escribir;"Como se llama tocar un poema en voz alta?;;Recitar;
+L016;Lengua;verdadero_falso;Un poema siempre tiene rima;Verdadero|Falso;FALSO;
+L017;Lengua;escribir;"Que palabra rima con cancion?;;Ilusion;
+L018;Lengua;ordenar;Ordena estas partes de la guitarra;Clavijas|Cuerdas|Caja;Caja|Clavijas|Cuerdas;Pista: la caja resuena
+L019;Lengua;verdadero_falso;El arpa es de percusion;Verdadero|Falso;FALSO;
+L020;Lengua;test;"Que es un campo semantico?;Palabras relacionadas|Palabras que riman|Frases largas;Palabras relacionadas;
+L021;Lengua;test;"Que tipos de instrumentos hay en una orquesta?;Cuerda|Viento|Percusion|Todas;Todas;
+L022;Lengua;test;"Cual es un instrumento de viento?;Saxofon|Guitarra|Tambor;Saxofon;Pista: sopla aire
+L023;Lengua;escribir;"Como se llama la familia del arpa?;;Cuerda;Pista: empieza por C
+L024;Lengua;test;"Que sirve para captar la atencion?;Hablar claro|Susurrar|No mirar;Hablar claro;
+L025;Lengua;arrastrar;Partes de la guitarra;Cuerdas|Clavijas|Caja de resonancia;Sonido|Afinar|Resonancia;
+L026;Lengua;arrastrar;Instrumento y sonido;Guitarra|Flauta|Tambor;Cuerdas|Aire|Golpes;
+L027;Lengua;escribir;Escribe una parte de la guitarra;;Caja;Pista: resuena al tocar
+L028;Lengua;ordenar;Ordena los pasos para planificar un poema;Aprender de memoria|Hablar claro|Escribir;Escribir|Aprender de memoria|Hablar claro;Pista: empieza escribiendo
+L029;Lengua;escribir;Escribe un instrumento de cuerda;;Arpa;Pista: se toca con dedos
+L030;Lengua;escribir;Escribe un instrumento de percusion atipico;;Xilofono;Pista: se golpea con baquetas
+L031;Lengua;escribir;Escribe un instrumento de viento;;Flauta;Pista: soplar aire
+L032;Lengua;ordenar;Ordena los pasos de planificacion de poema;Idea|Escribir|Aprender;Idea|Escribir|Aprender;Pista: empieza con idea
+L033;Lengua;ordenar;Ordena pasos para captar atencion;Gestos|Voz|Mirada;Mirada|Gestos|Voz;Pista: primero observa
+L034;Lengua;test;"Que instrumento se toca pulsando cuerdas?;Guitarra|Flauta|Tambor;Guitarra;Pista: pulsas con los dedos
+L035;Lengua;arrastrar;Relaciona familias de instrumentos;Violin|Flauta|Tambor;Cuerda|Viento|Percusion;Pista: observa sonido
+L036;Lengua;test;"Que instrumento pertenece a viento?;Flauta|Guitarra|Tambor;Flauta;Pista: soplar aire
+L037;Lengua;ordenar;Ordena partes de la guitarra;Caja|Cuerdas|Clavijas;Caja|Cuerdas|Clavijas;
+L038;Lengua;escribir;Escribe una parte de guitarra;;Cuerdas;Pista: se pulsan con dedos
+L039;Lengua;escribir;"Como se llama el texto que usa versos?;;Poema;
+L040;Lengua;verdadero_falso;Un verso puede ser corto;Verdadero|Falso;VERDADERO;
+L041;Lengua;test;"Cual instrumento es de percusion?;Tambor|Flauta|Guitarra;Tambor;Pista: golpea para sonar
+L042;Lengua;test;"Cual instrumento pertenece a viento?;Saxofon|Guitarra|Tambor;Saxofon;Pista: sopla aire
+L043;Lengua;ordenar;Ordena palabras para caligrama;PalabraA|PalabraB|PalabraC;PalabraA|PalabraB|PalabraC;Pista: mantiene forma
+L044;Lengua;test;"Que instrumento tiene caja de resonancia?;Guitarra|Flauta|Trompeta;Guitarra;
+L045;Lengua;test;"Que sirve para hablar claro?;Voz alta|Taparse la boca|Mirar al suelo;Voz alta;
+L046;Lengua;test;"Que es un verso?;Cada linea del poema|El titulo|La rima;Cada linea del poema;
+L047;Lengua;arrastrar;Relaciona poema y partes;Titulo|Verso|Rima;Linea|Texto|Sonido;Pista: identifica cada parte
+L048;Lengua;escribir;Escribe instrumento de cuerda;;Viola;Pista: arco necesario
+L049;Lengua;escribir;Escribe parte guitarra;;Cuerdas;Pista: se pulsa con los dedos
+L050;Lengua;test;"Que instrumento es de cuerda?;Violin|Flauta|Tambor;Violin;
+L051;Lengua;escribir;Escribe la familia del violin;;Cuerda;Pista: pertenece a instrumentos de cuerda
+L052;Lengua;test;"Que se aprende al memorizar un poema?;Recitar mejor|Leer mas lento|Olvidar;Recitar mejor;
+L053;Lengua;verdadero_falso;Los poemas pueden tener versos cortos;Verdadero|Falso;VERDADERO;
+L054;Lengua;escribir;"Que instrumento se parece al arpa?;;Guitarra;
+L055;Lengua;ordenar;Ordena las partes de un poema;Verso|Rima|Titulo;Titulo|Verso|Rima;Pista: primero va el titulo
+L056;Lengua;test;"Que es un caligrama?;Poema con dibujo|Cuento|Cancion|Teatro;Poema con dibujo;
+L057;Lengua;test;"Que parte NO es de la guitarra?;Cuerdas|Clavijas|Caja|Boquilla;Boquilla;
+L058;Lengua;ordenar;Ordena como preparar un poema;Pensar el tema|Hablar claro|Aprenderlo de memoria;Pensar el tema|Aprenderlo de memoria|Hablar claro;
+L059;Lengua;escribir;"Como se llaman las lineas de un poema?;;Versos;
+L060;Lengua;test;"Que instrumento se toca con las manos?;Guitarra|Flauta|Tambor;Guitarra;Pista: dedos sobre cuerdas
+L061;Lengua;arrastrar;Relaciona concepto y definicion;Verso|Poema|Rima;Linea|Texto|Sonido;Pista: cada concepto con su definicion
+L062;Lengua;verdadero_falso;Los poemas se pueden recitar;Verdadero|Falso;VERDADERO;
+L063;Lengua;arrastrar;Campo semantico de musica;Guitarra|Verso|Tambor;Instrumento|Poesia|Instrumento;
+L064;Lengua;ordenar;Ordena pasos para captar atencion;Leer claro|Gestos|Voz;Leer claro|Gestos|Voz;Pista: piensa como captar atencion
+L065;Lengua;test;"Que instrumento se toca soplando?;Flauta|Guitarra|Tambor;Flauta;Pista: aire necesario
+L066;Lengua;test;"Que instrumento NO es de cuerda?;Violin|Guitarra|Arpa|Flauta;Flauta;
+L067;Lengua;escribir;Escribe un instrumento de percusion;;Tambor;Pista: se golpea
+L068;Lengua;test;"Que instrumento es de viento atipico?;Flauta|Clarinete|Armonica|Violin;Armonica;
+L069;Lengua;test;"Que instrumento se pulsa?;Guitarra|Violin|Flauta;Guitarra;
+L070;Lengua;verdadero_falso;El arpa y la guitarra tienen cuerdas;Verdadero|Falso;VERDADERO;
+L071;Lengua;test;"Que instrumento pertenece a cuerda pulsada?;Guitarra|Flauta|Tambor;Guitarra;Pista: se toca pulsando
+L072;Lengua;test;"Cual instrumento pertenece a la familia de viento?;Flauta|Violin|Tambor;Flauta;Pista: soplas aire
+L073;Lengua;test;"Cual es la parte de la guitarra que sirve para afinar?;Clavijas|Cuerdas|Caja;Clavijas;Pista: es donde giras para ajustar
+L074;Lengua;verdadero_falso;Un caligrama es solo un dibujo;Verdadero|Falso;FALSO;
+L075;Lengua;arrastrar;Empareja familia con instrumento;Cuerda|Viento|Percusion;Violin|Flauta|Tambor;Pista: revisa el sonido
+L076;Lengua;ordenar;Ordena pasos para memorizar un poema;Leer|Repetir|Recordar;Leer|Repetir|Recordar;Pista: repite para aprender
+L077;Lengua;escribir;Escribe un instrumento de cuerda;;Viola;Pista: se toca con arco
+L078;Lengua;ordenar;Ordena pasos para escribir poema;Idea|Escribir|Aprender;Idea|Escribir|Aprender;Pista: empieza con idea
+L079;Lengua;escribir;Escribe parte guitarra;;Caja;Pista: resuena al tocar
+L080;Lengua;test;"Cual es la funcion de un verso?;Expresar|Contar|Golpear;Expresar;Pista: linea con sentido
+L081;Lengua;test;"Que hace captar la atencion?;Mirar|Hablar|Escuchar;Hablar;Pista: como te diriges al publico
+L082;Lengua;test;"Que es una orquesta?;Grupo de musicos|Un instrumento|Un poema;Grupo de musicos;
+L083;Lengua;arrastrar;Poema y partes;Titulo|Verso;Nombre|Linea;
+L084;Lengua;escribir;Escribe un instrumento de cuerda pulsada;;Guitarra;Pista: se toca con los dedos
+L085;Lengua;ordenar;Ordena pasos para escribir poema;Idea|Escribir|Leer;Idea|Escribir|Leer;Pista: empieza con idea
+L086;Lengua;test;"Cual es la caracteristica de un caligrama?;Forma de dibujo|Verso|Rima;Forma de dibujo;Pista: se ve como imagen
+L087;Lengua;escribir;Escribe un ejemplo de campo semantico;;Musica;Pista: palabras relacionadas
+L088;Lengua;escribir;Escribe instrumento de percusion;;Xilofono;Pista: golpeando con baquetas
+L089;Lengua;ordenar;Ordena versos de caligrama;VersoA|VersoB|VersoC;VersoA|VersoB|VersoC;Pista: sigue el orden visual
+L090;Lengua;test;"Que familia es el violin?;Cuerda|Viento|Percusion;Cuerda;
+L091;Lengua;arrastrar;Empareja cada poema con su tipo;Poema lirico|Poema epico;Lirico|epico;Pista: piensa en la intencion del poema
+L092;Lengua;arrastrar;Relaciona arpa con instrumentos similares;Arpa|Flauta|Tambor;Cuerda|Viento|Percusion;Pista: compara familias
+L093;Lengua;test;"Cual es un instrumento de percusion?;Tambor|Flauta|Violin;Tambor;Pista: se golpea
+L094;Lengua;test;"Que es rima asonante?;Repite vocales|Repite consonantes|No rima;Repite vocales;
+L095;Lengua;test;"Cual es la caracteristica de un poema?;Rima|Verso|Estrofa;Rima;Pista: final similar
+L096;Lengua;escribir;"Que palabra pertenece al campo semantico de poema?;;Verso;
+L097;Lengua;test;"Cual es un instrumento de cuerda pulsada?;Guitarra|Trompeta|Tambor;Guitarra;Pista: se pulsa con los dedos
+L098;Lengua;arrastrar;Relaciona poemas con su contenido;Lirico|epico|Narrativo;Sentimientos|Historia|Relato;Pista: usa el tipo de poema
+L099;Lengua;test;"Que instrumento pertenece a cuerda?;Guitarra|Flauta|Tambor;Guitarra;Pista: se pulsa
+L100;Lengua;ordenar;Ordena versos de poema corto;Verso1|Verso2|Verso3;Verso1|Verso2|Verso3;Pista: seguir orden
+L101;Lengua;test;"Cual es la parte de un poema que rima?;Verso|Estrofa|Titulo;Verso;Pista: es la linea que coincide al final
 L102;Lengua;verdadero_falso;Los instrumentos se agrupan por familias porque suenan parecido;Verdadero|Falso;VERDADERO;
+L103;Lengua;arrastrar;Empareja instrumento con familia;Oboe|Tambor|Guitarra;Viento|Percusion|Cuerda;Pista: identifica sonido
+L104;Lengua;test;"Que es un poema?;Texto con versos|Noticia|Receta|Carta;Texto con versos;
 L105;Lengua;ordenar;Ordena los versos para formar un poema;Verso1|Verso2|Verso3;Verso1|Verso2|Verso3;Pista: sigue el orden de lectura
+L106;Lengua;arrastrar;Clasifica instrumentos;Violin|Flauta|Tambor;Cuerda|Viento|Percusion;
+L107;Lengua;test;"Que tipo de rima repite todos los sonidos?;Consonante|Asonante|Libre;Consonante;
 L108;Lengua;arrastrar;Empareja partes de poema y funcion;Titulo|Verso|Rima;Nombre|Linea|Sonido;Pista: cada parte con su funcion
 L109;Lengua;test;"Que instrumento es de cuerda pulsada?;Guitarra|Violin|Flauta|Tambor;Guitarra;
-G001;Listening;listening;I like listening cats;I like cats|I hate mouses|I like dogs;I like cats;Pista: Listening
-G002;Listening;guess;I like guess cats;I like cats|I hate mouse|I like dogs;I like cats;Pista: Guess
+L110;Lengua;verdadero_falso;La guitarra es de cuerda pulsada;Verdadero|Falso;VERDADERO;
+L111;Lengua;escribir;Escribe un poema de ejemplo;;Mi poema;Pista: corta frase
+M001;Matematicas;ordenar;Ordena de menor a mayor 508 580 550;508|550|580;508|550|580;
+M002;Matematicas;test;"Cual es la centena mas proxima a 549?;500|600;500;
+M003;Matematicas;escribir;Descompon el numero 468 en centenas decenas y unidades;;4C 6D 8U;Ejemplo: 123 -> 1C 2D 3U
+M004;Matematicas;test;"Cuantas centenas tiene el numero 405?;4|40|45;4;
+M005;Matematicas;test;"Que numero es mayor que 910?;908|915|905;915;
+M006;Matematicas;test;"Cual es la decena del numero 381?;80|8|70;80;
+M007;Matematicas;verdadero_falso;El numero 399 se aproxima a 400;VERDADERO|FALSO;VERDADERO;
+M008;Matematicas;escribir;"Cuantas decenas hay en 590?;;59;
+M009;Matematicas;test;"Cual numero tiene 3 unidades?;703|730|370;703;
+M010;Matematicas;arrastrar;Relaciona numero y descomposicion;342|580|409;3C 4D 2U|5C 8D 0U|4C 0D 9U;Pista: C es centena _  D es decena _  U es unidades
+M011;Matematicas;test;"Que numero es impar?;812|905|640;905;
+M012;Matematicas;test;"Que numero se forma con las cifras 2C_ 5D y 8U?;258|285|825;258;Ejemplo: 123 -> 1C 2D 3U
+M013;Matematicas;escribir;Suma 3 decenas a 6 centenas;;630;Pista suma tres decenas
+M014;Matematicas;test;"Cual numero esta formado por 3 centenas _  5 decenas y 0 unidades?;350|305|530;350;
+M015;Matematicas;verdadero_falso;En 906 la cifra de las decenas es cero;VERDADERO|FALSO;VERDADERO;
+M016;Matematicas;test;"Cual es mayor?;908|890;908;
+M017;Matematicas;escribir;Completa: 6 _ 10 _ ? _ 18;;14;
+M018;Matematicas;escribir;Dado el numero 512. Escribe el posterior;;513;
+M019;Matematicas;escribir;Suma una decena a 930;;940;
+M020;Matematicas;test;"Cual de estos numeros tiene 5 decenas?;452|507|405;452;
+M021;Matematicas;test;"Cual es la centena mas proxima a 599?;500|600;600;
+M022;Matematicas;test;"Que numero NO tiene centenas?;87|405|612;87;
+M023;Matematicas;ordenar;Ordena los numeros formados con 4 0 y 2;204|240|402|420;204|240|402|420;
+M024;Matematicas;test;"Cual es el valor de la centena en 742?;700|70|7;700;
+M025;Matematicas;test;"Cual es la centena del numero 684?;600|80|6;600;
+M026;Matematicas;escribir;Escribe el numero anterior a 700;;699;
+M027;Matematicas;escribir;Escribe tres numeros cuya centena mas proxima sea 700;;680 710 699;Pista: Hay muchos
+M028;Matematicas;escribir;Completa: 450 _ 460 _ ? _ 480;;470;
+M029;Matematicas;test;"Que numero esta entre 699 y 701?;698|700|702;700;
+M030;Matematicas;escribir;Escribe el numero con 6 centenas y 1 unidad;;601;Pista: No tiene decenas
+M031;Matematicas;escribir;"Que numero tiene 2 centenas _  0 decenas y 4 unidades?;;204;
+M032;Matematicas;test;"Cuantas centenas tiene el numero 900?;9|90|0;9;
+M033;Matematicas;escribir;Descompon 905 en centenas _  decenas y unidades;;9C 0D 5U;Ejemplo: 123 -> 1C 2D 3U
+M034;Matematicas;escribir;"Cual es la centena del numero 381?;;3;
+M035;Matematicas;test;"Cual esta mas cerca de 600?;589|612;589;
+M036;Matematicas;escribir;Aproxima 8 a la decena mas cercana;;10;
+M037;Matematicas;escribir;"Que numero tiene 1 decena _  2 unidades y 9 centenas?;;912;
+M038;Matematicas;ordenar;Ordena de mayor a menor 402 420 399;420|402|399;420|402|399;
+M039;Matematicas;escribir;Suma 10 a 480;;490;
+M040;Matematicas;test;"Cual de estos numeros tiene 8 decenas?;182|208|820;182;
+M041;Matematicas;test;"Cual es la cifra de las unidades en 468?;8|6|4;8;
+M042;Matematicas;test;"Cual es la centena mas proxima a 650?;600|700;700;
+M043;Matematicas;escribir;Escribe en numero: cuatrocientos ochenta;;480;
+M044;Matematicas;test;"Que numero tiene 2 unidades?;513|520|502;502;
+M045;Matematicas;escribir;"Que numero tiene 3 centenas y 2 unidades?;;302;
+M046;Matematicas;escribir;"Que numero tiene 1 decena _  6 centenas y 5 unidades?;;615;
+M047;Matematicas;verdadero_falso;Al aproximar 650 a la centena mas proxima se obtiene 700;VERDADERO|FALSO;VERDADERO;
+M048;Matematicas;test;"Que numero tiene 0 decenas?;405|450|490;405;
+M049;Matematicas;verdadero_falso;El numero 480 es mayor que 500;VERDADERO|FALSO;FALSO;
+M050;Matematicas;test;"Cuantas centenas tiene el numero 782?;7|78|70;7;
+M051;Matematicas;verdadero_falso;El numero 875 se aproxima a 900;VERDADERO|FALSO;VERDADERO;
+M052;Matematicas;test;"Cual es la centena mas proxima a 489?;400|500;500;
+M053;Matematicas;test;"Cual es la centena mas proxima a 751?;700|800;800;
+M054;Matematicas;test;"Cual es la unidad del numero 381?;1|3|8;1;
+M055;Matematicas;escribir;Completa: 200 _ 300 _ ? _ 500;;400;
+M056;Matematicas;arrastrar;Relaciona numero con centenas decenas y unidades;681|740|905;6C 8D 1U|7C 4D|9C 5U;Ejemplo: 123 -> 1C 2D 3U
+M057;Matematicas;ordenar;Ordena esta serie restando 25 cada vez. Empieza por el mayor;600|575|550|525;600|575|550|525;Pista resta igual
+M058;Matematicas;test;"Cual es el ordinal de 9?;noveno|nueve|noventa;noveno;
+M059;Matematicas;arrastrar;Relaciona numero y descomposicion;615|980|703;6C 1D 5U|9C 8D 0U|7C 0D 3U;Pista: C es centena _  D es decena _  U es unidades
+M060;Matematicas;escribir;Suma una decena a 540;;550;
+M061;Matematicas;arrastrar;Relaciona numero y texto;700|800|900;setecientos|ochocientos|novecientos;
+M062;Matematicas;test;"Cual es el numero anterior a 700?;699|701|690;699;
+M063;Matematicas;test;"Cual numero tiene 8 decenas?;180|108|801;180;
+M064;Matematicas;escribir;"Cuantas centenas tiene 890?;;8;
+M065;Matematicas;escribir;"Que numero tiene 1 centena _  0 decenas y 6 unidades?;;106;
+M066;Matematicas;escribir;Aproxima 678 a la centena mas cercana;;700;
+M067;Matematicas;ordenar;Ordena de mayor a menor;720|705|699;720|705|699;
+M068;Matematicas;test;"Cual numero tiene 9 decenas?;890|809|980;890;
+M069;Matematicas;test;"Cual numero tiene 7 centenas?;705|350|507;705;
+M070;Matematicas;escribir;Escribe el numero anterior de 500;;499;Pista uno menos
+M071;Matematicas;escribir;"Cual es la centena del numero 958?;;9;
+M072;Matematicas;test;"Cual es mayor?;645|654;654;
+M073;Matematicas;test;"Cuantas decenas tiene el numero 910?;9|91|90;91;
+M074;Matematicas;test;"Que numero tiene 6 centenas 4 decenas y 9 unidades?;649|694|964;649;
+M075;Matematicas;escribir;Escribe en numero: trescientos cincuenta;;350;
+M076;Matematicas;test;Continua la serie: 5 _ 10 _ 15 _ ?;18|20|25;20;Serie +5
+M077;Matematicas;test;"Cual numero tiene 4 centenas?;402|240|204;402;
+M078;Matematicas;escribir;"Cuantas centenas hay en 999?;;9;
+M079;Matematicas;test;"Que numero esta entre 399 y 401?;398|400|402;400;
+M080;Matematicas;test;"Cual es la centena mas proxima a 474?;400|500;500;
+M081;Matematicas;escribir;Forma un numero con 4 centenas 0 decenas y 7 unidades;;407;
+M082;Matematicas;test;"Que numero va despues en la serie? 30 _ 28 _ 26 _ ?;24|25|22;24;Serie -2
+M083;Matematicas;ordenar;Ordena de menor a mayor;845|832|860;832|845|860;
+M084;Matematicas;test;"Cual numero tiene 5 centenas?;260|650|506;506;
+M085;Matematicas;test;"Que numero tiene 0 unidades?;520|502|250;520;
+M086;Matematicas;escribir;Descompon 834 en centenas _  decenas y unidades;;8C 3D 4U;Ejemplo: 123 -> 1C 2D 3U
+M087;Matematicas;test;"Que numero es impar?;640|753|820;753;
+M088;Matematicas;escribir;Descompon 760 en centenas _  decenas y unidades;;7C 6D 0U;Ejemplo: 123 -> 1C 2D 3U
+M089;Matematicas;arrastrar;Arrastra los numeros mayores que 500;480|505|620|499;505|620;Pista compara centenas
+M090;Matematicas;escribir;Suma 1 centena a 999;;1099;Dificil_ piensa
+M091;Matematicas;ordenar;Ordena de mayor a menor;915|902|908;915|908|902;
+M092;Matematicas;escribir;"Que numero tiene 1 centena _  2 decenas y 0 unidades?;;120;
+M093;Matematicas;escribir;Suma 100 a 430;;530;
+M094;Matematicas;escribir;Suma 10 a 890;;900;
+M095;Matematicas;test;"Que numero se forma con 3 _  8 y 6?;386|368|836;386;
+M096;Matematicas;arrastrar;Relaciona numero y centena;412|689|931;400|600|900;
+M097;Matematicas;escribir;Descompon 476 en centenas _  decenas y unidades;;4C 7D 6U;Ejemplo: 123 -> 1C 2D 3U
+M098;Matematicas;arrastrar;Arrastra los numeros con 0 decenas;402|450|509|600;402|509|600;Pista decena cero
+M099;Matematicas;escribir;Aproxima 444 a la centena mas cercana;;400;
+M100;Matematicas;test;"Cual es correcto?;5 centenas = 500|5 centenas = 50;5 centenas = 500;
+M101;Matematicas;test;"Cual es el numero que tiene 3 centenas 2 decenas y 5 unidades?;325|352|235;325;Pista piensa en centenas decenas y unidades
+M102;Matematicas;verdadero_falso;El numero 1000 tiene diez centenas;VERDADERO|FALSO;VERDADERO;
+M103;Matematicas;test;"Cual numero tiene 2 decenas?;420|402|240;420;
+M104;Matematicas;escribir;Completa la serie: 300 _ 320 _ ? _ 360;;340;
+M105;Matematicas;escribir;Dado el numero 365. Escribe el posterior;;366;
+M106;Matematicas;escribir;"Cual es la centena del numero 374?;;3;
+M107;Matematicas;escribir;Suma una decena a 860;;870;
+M108;Matematicas;test;"Cual es mayor?;678|687;687;
+M109;Matematicas;test;"Que numero tiene mas valor?;764|746;764;
+M110;Matematicas;test;"Cuantas decenas tiene el numero 340?;3|34|30;34;
+M111;Matematicas;escribir;Escribe el numero posterior a 249;;250;
+M112;Matematicas;escribir;"Cual es la centena del numero 812?;;8;
+M113;Matematicas;escribir;Completa la serie: 100 _ 110 _ ? _ 130;;120;
+M114;Matematicas;test;"Cual numero tiene 7 decenas?;470|407|704;470;
+M115;Matematicas;test;"Que numero es impar?;248|351|400;351;
+M116;Matematicas;arrastrar;Arrastra los numeros que pertenecen a la centena de 400;401|389|450|499;401|450|499;Pista entre 400 y 499
+M117;Matematicas;test;"Que numero tiene 0 unidades?;720|702|709;720;
+M118;Matematicas;escribir;"Que numero tiene 9 centenas _  8 decenas y 0 unidades?;;980;
+M119;Matematicas;test;"Que cifra indica las decenas en el numero 738?;3|7|8;3;
+M120;Matematicas;test;"Cual es mayor?;834|843;843;
+M121;Matematicas;escribir;"Que numero es "cuatrocientos noventa y cinco";;495;
+M122;Matematicas;test;"Cual es mayor?;799|802;802;
+M123;Matematicas;escribir;"Que numero tiene 7 centenas _  9 unidades y 4 decenas?;;749;
+M124;Matematicas;test;"Que numero esta formado por 4 centenas _  0 decenas y 9 unidades?;409|490|940;409;Pista: No tiene decenas
+M125;Matematicas;escribir;Escribe tres numeros cuya centena mas proxima sea 600;;580 610 599;Pista: Hay muchos
+M126;Matematicas;escribir;Completa la serie 100 _ 105 _ 110 _ ? _ 120;;115;Pista suma 5
+M127;Matematicas;test;"Cual es la centena mas proxima a 551?;500|600;600;
+M128;Matematicas;arrastrar;Relaciona numero y descomposicion;106|749|381;1C 0D 6U|7C 4D 9U|3C 8D 1U;Pista: C es centena _  D es decena _  U es unidades
+M129;Matematicas;escribir;"Que numero tiene 2 centenas y 9 unidades?;;209;
+M130;Matematicas;escribir;Dado el numero 684. Escribe el anterior;;683;
+M131;Matematicas;test;"Cual es correcto?;9 centenas = 900|9 centenas = 90;9 centenas = 900;
+M132;Matematicas;arrastrar;Relaciona numero con texto;300|450|620;trescientos|cuatrocientos cincuenta|seiscientos veinte;Pista lee el texto
+M133;Matematicas;escribir;Suma 10 a 300;;310;
+M134;Matematicas;test;"Que numero se forma con 9 centenas 0 decenas y 4 unidades?;904|940|490;904;
+M135;Matematicas;escribir;Completa la serie: 900 _ 890 _ ? _ 870;;880;
+M136;Matematicas;test;"Que numero esta formado por 9 centenas y 2 unidades?;902|920|290;902;Pista: No tiene decenas
+M137;Matematicas;escribir;Aproxima 684 a la centena mas cercana;;700;
+M138;Matematicas;escribir;Forma un numero con 8 centenas y 2 decenas;;820;
+M139;Matematicas;test;"Que numero tiene mas valor?;678|687;687;
+M140;Matematicas;test;"Cual de estos numeros tiene 6 decenas?;460|406|640;460;
+M141;Matematicas;escribir;Escribe el numero con 4 centenas y 7 unidades;;407;Pista: No tiene decenas
+M142;Matematicas;escribir;Aproxima 781 a la centena mas cercana;;800;
+M143;Matematicas;escribir;"Cuantas centenas hay en 876?;;8;
+M144;Matematicas;escribir;Escribe el numero con 5 centenas y 4 decenas;;540;Pista: No tiene unidades
+M145;Matematicas;test;"Cual es la centena mas proxima a 512?;500|600;500;
+M146;Matematicas;escribir;Aproxima 562 a la centena mas cercana;;600;
+M147;Matematicas;arrastrar;Une cada numero con su decena;342|569|781;40|60|80;Pista mira la cifra central
+M148;Matematicas;test;"Cual esta mas cerca de 800?;789|812;789;
+M149;Matematicas;arrastrar;Une el numero con su descomposicion;345|507|620;3C 4D 5U|5C 7U|6C 2D;Pista arrastra cada numero a su grupo
+M150;Matematicas;test;"Cuantas centenas hay en 1000?;10|1|100;10;
+M151;Matematicas;test;"Cual numero tiene 0 unidades?;450|452|459;450;
+M152;Matematicas;escribir;Forma un numero con 7 centenas y 3 unidades;;703;
+M153;Matematicas;test;"Que numero es par?;753|681|904;904;
+M154;Matematicas;escribir;Suma 5 decenas a 350;;400;
+M155;Matematicas;arrastrar;Relaciona numero y texto;300|500|400;trescientos|quinientos|cuatrocientos;
+M156;Matematicas;ordenar;Ordena esta serie siguiendo el patron +5 y -10. Empieza en 295;300 285 295 295 290;295 300 290 295 285;Pista alterna operaciones. Dificil!
+M157;Matematicas;test;"Que numero es correcto?;600 + 10 = 610|600 + 10 = 601;600 + 10 = 610;
+M158;Matematicas;escribir;Aproxima 615 a la centena mas cercana;;600;
+M159;Matematicas;test;"Cual numero tiene 3 centenas?;192|305|530;305;
+M160;Matematicas;ordenar;Ordena de menor a mayor 320 305 350;305|320|350;305|320|350;
+M161;Matematicas;escribir;Suma 10 a 570;;580;
+M162;Matematicas;test;"Que numero es cuatrocientos treinta y dos?;432|423|342;432;
+M163;Matematicas;escribir;Suma 10 a 420;;430;
+M164;Matematicas;test;"Que numero es "setecientos cuarenta y dos";742|724|702;742;
+M165;Matematicas;escribir;Completa la serie 800 _ 780 _ 760 _ ? _ 720;;740;Pista resta 20
+M166;Matematicas;test;"Cual es correcto?;10 decenas = 100|10 decenas = 10;10 decenas = 100;
+M167;Matematicas;test;Continua la serie: 200 _ 220 _ 240 _ ?;250|260|280;260;Serie +20
+M168;Matematicas;test;"Que numero NO tiene decenas?;407|470|704;407;
+M169;Matematicas;test;"Que numero tiene 8 centenas y 3 unidades?;803|830|83;803;
+M170;Matematicas;escribir;"Cual es el numero posterior a 899?;;900;
+M171;Matematicas;escribir;"Cuantas unidades tiene el numero 406?;;6;
+M172;Matematicas;test;"Cual NO es un numero ordinal?;primero|segundo|dos;dos;
+M173;Matematicas;test;"Cual es mayor?;498|502;502;
+M174;Matematicas;escribir;Forma un numero con 5 centenas y 9 decenas;;590;
+M175;Matematicas;escribir;Escribe el numero anterior a 300;;299;
+M176;Matematicas;escribir;Escribe tres numeros cuya centena mas proxima sea 500;;480 510 499;Pista: Hay muchos
+M177;Matematicas;test;"Que numero es mayor que 680?;679|682|678;682;
+M178;Matematicas;escribir;Suma 10 a 690;;700;
+M179;Matematicas;ordenar;Ordena de mayor a menor;880|905|899;905|899|880;
+M180;Matematicas;escribir;"Que numero tiene 3 centenas _  4 decenas y 2 unidades?;;342;
+M181;Matematicas;test;"Que numero es "seiscientos doce";612|621|602;612;
+M182;Matematicas;escribir;Escribe el numero posterior a 999;;1000;
+M183;Matematicas;verdadero_falso;El numero 509 tiene 5 centenas;VERDADERO|FALSO;VERDADERO;
+M184;Matematicas;escribir;Descompon 642 en centenas _  decenas y unidades;;6C 4D 2U;Ejemplo: 123 -> 1C 2D 3U
+M185;Matematicas;ordenar;Ordena de mayor a menor;930|905|918;930|918|905;
+M186;Matematicas;ordenar;Ordena de menor a mayor 111 101 110;101|110|111;101|110|111;
+M187;Matematicas;test;"Que numero es mayor que 750?;749|752|745;752;
+M188;Matematicas;ordenar;Ordena de mayor a menor;845|832|860;860|845|832;
+M189;Matematicas;test;"Que numero tiene 5 unidades?;485|450|458;485;
+M190;Matematicas;escribir;"Que numero tiene 2 centenas _  9 decenas y 1 unidad?;;291;
+M191;Matematicas;arrastrar;Arrastra los numeros menores que 300;120|305|289|410;120|289;Pista menor que 300
+M192;Matematicas;escribir;"Que numero es "seiscientos treinta y cuatro";;634;
+M193;Matematicas;escribir;"Cuantas centenas hay en 543?;;5;
+M194;Matematicas;ordenar;Ordena de mayor a menor 999 909 990;999|990|909;999|990|909;
+M195;Matematicas;test;"Cual es la unidad del numero 659?;9|6|5;9;
+M196;Matematicas;escribir;Forma un numero con 9 centenas y 6 unidades;;906;
+M197;Matematicas;test;"Cual es menor?;601|598;598;
+M198;Matematicas;test;"Cual es la centena mas proxima a 649?;600|700;600;
+M199;Matematicas;escribir;Descompon el numero 905 en centenas decenas y unidades;;9C 5U;Ejemplo: 123 -> 1C 2D 3U
+M200;Matematicas;test;Tres numeros tienen la centena mas proxima a 600 "cual puede ser?;578 612 649|489 501 520;578 612 649;
+M201;Matematicas;escribir;Dado el numero 365. Escribe el anterior;;364;
+M202;Matematicas;test;"Que numero se forma con 5 centenas 5 decenas y 0 unidades?;550|505|500;550;
+M203;Matematicas;test;"Cual es la centena mas proxima a 501?;500|600;500;
+M204;Matematicas;escribir;"Que numero es "ochocientos noventa";;890;
+M205;Matematicas;test;"Cuantas decenas tiene el numero 640?;6|64|60;64;
+M206;Matematicas;escribir;Escribe el numero posterior a 899;;900;
+M207;Matematicas;escribir;Completa la serie 50 _ 48 _ 46 _ ? _ 42;;44;Pista resta 2
+M208;Matematicas;test;"Cual es la unidad del numero 374?;4|3|7;4;
+M209;Matematicas;test;"Cuantas centenas tiene el numero 999?;9|99|90;9;
+M210;Matematicas;test;"Que numero es impar?;482|615|700;615;
+M211;Matematicas;test;"Que centena es mas proxima a 278?;200|300;300;Pista mira las decenas
+M212;Matematicas;escribir;Completa la serie: 500 _ 520 _ ? _ 560;;540;
+M213;Matematicas;ordenar;Ordena los resultados de sumar 10 a 300 200 400;210|310|410;210|310|410;
+M214;Matematicas;escribir;Escribe en numero: setecientos tres;;703;
+M215;Matematicas;test;"Que numero es par?;673|589|420;420;
+M216;Matematicas;test;"Que numero se forma con 6 _  2 y 9?;629|692|269;629;
+M217;Matematicas;test;"Cual es un numero ordinal?;septimo|siete|setenta;septimo;
+M218;Matematicas;test;"Que viene antes en la serie? 90 _ 80 _ 70 _ ?;60|65|75;60;
+M219;Matematicas;test;"Cual es la centena mas proxima a 472?;400|500;500;
+M220;Matematicas;test;"Cual es correcto?;10 centenas = 1000|10 centenas = 100;10 centenas = 1000;
+M221;Matematicas;test;"Cual es la centena mas proxima a 438?;400|500;400;
+M222;Matematicas;ordenar;Ordena de menor a mayor los numeros formados con 2 4 y 6;246|264|426|462|624|642;246|264|426|462|624|642;Pista son todas las combinaciones
+M223;Matematicas;test;"Cual numero tiene 4 decenas?;240|204|420;240;
+M224;Matematicas;test;"Cual es la decena del numero 374?;70|7|60;70;
+M225;Matematicas;test;"Que numero esta entre 699 y 701?;700|698|702;700;
+M226;Matematicas;test;"Cual numero tiene 0 decenas?;504|540|450;504;
+M227;Matematicas;escribir;"Cual es la centena del numero 659?;;6;
+M228;Matematicas;ordenar;Ordena de menor a mayor;715|702|720;702|715|720;
+M229;Matematicas;ordenar;Ordena de mayor a menor;990|975|982;990|982|975;
+M230;Matematicas;test;"Cual es el ordinal de 5?;quinto|cinco|quince;quinto;
+M231;Matematicas;test;"Que numero es "cuatrocientos veinte y siete";427|472|407;427;
+M232;Matematicas;test;"Cual de estos numeros tiene 4 centenas?;389|402|298;402;
+M233;Matematicas;test;"Que numero es par?;815|729|604;604;
+M234;Matematicas;escribir;Escribe en numero: novecientos uno;;901;
+M235;Matematicas;verdadero_falso;El numero 642 tiene mas decenas que centenas;VERDADERO|FALSO;FALSO;
+M236;Matematicas;escribir;Escribe todos los numeros posibles con 1 y 2 y 3;;123 132 213 231 312 321;Pista son seis
+M237;Matematicas;arrastrar;Relaciona numero y centena;345|678|912;300|600|900;
+M238;Matematicas;arrastrar;Une numero y texto;610|725|804;seiscientos diez|setecientos veinticinco|ochocientos cuatro;Pista lee despacio
+M239;Matematicas;test;"Que numero NO pertenece a la centena de 700?;699|720|780;699;
+M240;Matematicas;escribir;Aproxima 89 a la decena mas cercana;;90;
+M241;Matematicas;escribir;"Cuantas decenas hay en 420?;;42;
+M242;Matematicas;escribir;Escribe en numero: trescientos nueve;;309;
+M243;Matematicas;test;"Que viene antes en la serie? 50 _ 45 _ 40 _ ?;35|30|38;35;
+M244;Matematicas;verdadero_falso;El numero 780 esta mas cerca de 800 que de 700;VERDADERO|FALSO;VERDADERO;
+M245;Matematicas;escribir;"Cuantas unidades tiene el numero 670?;;0;
+M246;Matematicas;escribir;"Cuantas unidades tiene el numero 730?;;0;
+M247;Matematicas;escribir;Escribe el numero anterior a 500;;499;
+M248;Matematicas;escribir;Descompon 918 en centenas _  decenas y unidades;;9C 1D 8U;Ejemplo: 123 -> 1C 2D 3U
+M249;Matematicas;test;"Cual es la decena del numero 684?;80|6|600;80;
+M250;Matematicas;escribir;Dado el numero 512. Escribe el anterior;;511;
+M251;Matematicas;escribir;Escribe el numero posterior a 399;;400;
+M252;Matematicas;escribir;Suma 10 a 300;;310;
+M253;Matematicas;escribir;Suma una decena a 900;;910;
+M254;Matematicas;test;"Cual numero tiene 0 decenas?;804|840|480;804;
+M255;Matematicas;test;"Cual numero es mayor?;928|892;928;
+M256;Matematicas;test;"Cual es la centena mas proxima a 432?;400|500;400;
+M257;Matematicas;test;"Cual es menor?;701|698;698;
+M258;Matematicas;escribir;"Cuantas decenas hay en 870?;;87;
+M259;Matematicas;escribir;Descompon 709 en centenas _  decenas y unidades;;7C 0D 9U;Ejemplo: 123 -> 1C 2D 3U
+M260;Matematicas;test;"Cual es la centena mas proxima a 749?;700|800;700;
+M261;Matematicas;test;"Que numero es quinientos ocho?;508|580|850;508;
+M262;Matematicas;test;"Que numero va despues en la serie? 10 _ 15 _ 20 _ ?;25|30|35;25;Serie +5
+M263;Matematicas;test;Continua la serie: 40 _ 38 _ 36 _ ?;34|35|32;34;Serie -2
+M264;Matematicas;test;"Cual es la centena mas proxima a 851?;800|900;900;
+M265;Matematicas;test;"Cual numero es mayor?;873|837;873;
+M266;Matematicas;escribir;Escribe en numero: quinientos ochenta;;580;
+M267;Matematicas;verdadero_falso;En 390 la cifra de las unidades es cero;VERDADERO|FALSO;VERDADERO;
+M268;Matematicas;escribir;Aproxima 521 a la centena mas cercana;;500;
+M269;Matematicas;test;"Que numero tiene mas valor?;399|402;402;
+M270;Matematicas;escribir;Aproxima 602 a la centena mas cercana;;600;
+M271;Matematicas;test;"Que numero NO tiene centenas?;98|305|410;98;
+M272;Matematicas;escribir;Completa la serie 410 _ 420 _ ? _ 440;;430;Pista suma 10
+M273;Matematicas;test;"Cual es la centena mas proxima a 421?;400|500|450;400;
+M274;Matematicas;escribir;"Que numero tiene 5 centenas _  0 decenas y 8 unidades?;;508;
+M275;Matematicas;escribir;"Cual es la centena del numero 764?;;7;
+M276;Matematicas;escribir;"Que numero es "ochocientos quince";;815;
+M277;Matematicas;test;"Cual es un numero ordinal?;octavo|ocho|ochenta;octavo;
+M278;Matematicas;escribir;Aproxima 68 a la decena mas cercana;;70;
+M279;Matematicas;escribir;"Cuantas decenas hay en 760?;;76;
+M280;Matematicas;test;"Cual esta mas cerca de 900?;880|912;912;
+M281;Matematicas;escribir;Escribe el numero posterior a 799;;800;
+M282;Matematicas;test;"Que viene antes en la serie? 60 _ 50 _ 40 _ ?;30|35|45;30;
+M283;Matematicas;escribir;Aproxima 61 a la decena mas cercana;;60;
+M284;Matematicas;test;"Cual numero tiene 4 decenas?;340|304|430;340;
+M285;Matematicas;test;"Cual es el numero posterior a 399?;400|398|401;400;
+M286;Matematicas;test;"Que numero tiene 3 unidades?;483|430|348;483;
+M287;Matematicas;escribir;Escribe el numero anterior a 650;;649;
+M288;Matematicas;escribir;Escribe el numero anterior a 100;;99;
+M289;Matematicas;test;"Cual es un numero ordinal?;tercero|tres|treinta;tercero;
+M290;Matematicas;test;"Que numero es correcto?;700 + 10 = 710|700 + 10 = 701;700 + 10 = 710;
+M291;Matematicas;escribir;Aproxima 722 a la centena mas cercana;;700;
+M292;Matematicas;arrastrar;Une cada numero con su centena mas proxima;249|351|678;200|400|700;Pista fijate en las decenas
+M293;Matematicas;escribir;Escribe el numero anterior a 420;;419;
+M294;Matematicas;test;Continua la serie: 100 _ 90 _ 80 _ ?;70|75|60;70;Serie -10
+M295;Matematicas;ordenar;Ordena de menor a mayor;731|708|745;708|731|745;
+M296;Matematicas;escribir;"Cuantas centenas tiene 401?;;4;
+M297;Matematicas;arrastrar;Relaciona numero y texto;400|600|900;400=cuatrocientos|600=seiscientos|900=novecientos;
+M298;Matematicas;escribir;Dado el numero 684. Escribe el posterior;;685;
+M299;Matematicas;escribir;Completa la serie 1000 _ 900 _ ? _ 700;;800;Pista resta 100
+M300;Matematicas;escribir;Forma un numero con 2 centenas y 8 unidades;;208;
+M301;Matematicas;verdadero_falso;El numero anterior a 100 es 99;VERDADERO|FALSO;VERDADERO;
+M302;Matematicas;escribir;"Cuantas centenas tiene 702?;;7;
+M303;Matematicas;verdadero_falso;Al aproximar 450 se puede subir a 500;VERDADERO|FALSO;VERDADERO;
+M304;Matematicas;escribir;Completa la serie 900 _ 850 _ 800 _ ? _ 700;;750;Pista resta 50
+M305;Matematicas;test;"Que numero esta entre 499 y 501?;498|500|502;500;
+M306;Matematicas;verdadero_falso;Al aproximar 241 a la centena mas cercana obtenemos 200;VERDADERO|FALSO;VERDADERO;
+M307;Matematicas;arrastrar;Relaciona numero y descomposicion correcta;703|860|495;7C 3U|8C 6D|4C 9D 5U;Pista algunas decenas pueden faltar
+M308;Matematicas;ordenar;Ordena siguiendo el patron + 100 - 50. Empieza en 200;200|300|250|350;200|300|250|350;
+M309;Matematicas;escribir;"Que numero tiene 9 centenas y 0 decenas?;;900;
+M310;Matematicas;escribir;"Que numero tiene 4 centenas _  0 decenas y 7 unidades?;;407;
+M311;Matematicas;test;"Que numero se forma con 8 _  4 y 1?;841|814|418;841;
+M312;Matematicas;test;"Cual es la centena mas proxima a 888?;800|900;900;
+M313;Matematicas;verdadero_falso;El numero 501 pertenece a la centena de 500;VERDADERO|FALSO;VERDADERO;
+M314;Matematicas;test;"Cuantos numeros distintos se pueden formar con 3_ 5 y 7 sin repetir?;6|3|9;6;
+M315;Matematicas;test;"Que numero es correcto?;800 + 10 = 810|800 + 10 = 801;800 + 10 = 810;
+M316;Matematicas;test;"Cual numero tiene 9 decenas?;182|290|209;290;
+M317;Matematicas;ordenar;Ordena de menor a mayor;345|298|410;298|345|410;
+M318;Matematicas;test;"Cual es la centena mas proxima a 749?;700|800;700;
+M319;Matematicas;test;"Cual es la decena del numero 659?;50|6|60;50;
+M320;Matematicas;test;"Cual es correcto?;8 centenas = 800|8 centenas = 80;8 centenas = 800;
+M321;Matematicas;test;"Cual es mayor?;905|950;950;
+M322;Matematicas;escribir;Suma 3 centenas a 200;;500;
+M323;Matematicas;test;"Cual numero tiene 6 centenas?;602|560|130;602;
+M324;Matematicas;test;"Cual es menor?;905|890;890;
+M325;Matematicas;escribir;Escribe el numero posterior a 589;;590;
+M326;Matematicas;ordenar;Ordena de menor a mayor;602|598|610;598|602|610;
+M327;Matematicas;arrastrar;Relaciona numero y centena;581|734|962;500|700|900;
+M328;Matematicas;ordenar;Ordena de menor a mayor;512|498|501;498|501|512;
+M329;Matematicas;test;"Cual es el ordinal de 3?;tercero|tres|treinta;tercero;
+M330;Matematicas;escribir;Escribe el numero posterior a 649;;650;
+M331;Matematicas;escribir;Suma 5 a 400;;405;
+N001;Naturals;test;Which material is plastic?;plastic ball|wood floor|glass door;plastic ball;
+N002;Naturals;test;Which material is metal?;metal bar|paper picture|brick wall;metal bar;
+N003;Naturals;test;Which material comes from trees?;wood|metal|glass;wood;
+N004;Naturals;verdadero_falso;Glass is a smooth material;VERDADERO|FALSO;VERDADERO;
+N005;Naturals;verdadero_falso;Brick walls are usually smooth;VERDADERO|FALSO;FALSO;
+N006;Naturals;test;Which material is waterproof?;plastic|paper|wood;plastic;
+N007;Naturals;test;Which material is absorbent?;paper|glass|metal;paper;
+N008;Naturals;test;Which object is made of glass?;glass door|metal bar|wood floor;glass door;
+N009;Naturals;test;Which object is made of wood?;wood floor|plastic ball|metal bar;wood floor;
+N010;Naturals;test;Which object is made of bricks?;brick wall|glass door|paper picture;brick wall;
+N011;Naturals;verdadero_falso;Metal is usually tough;VERDADERO|FALSO;VERDADERO;
+N012;Naturals;verdadero_falso;Paper is waterproof;VERDADERO|FALSO;FALSO;
+N013;Naturals;test;Which material can be rough?;stone|glass|plastic;stone;
+N014;Naturals;test;Which material can be smooth?;glass|brick|cement;glass;
+N015;Naturals;arrastrar;Drag materials that are smooth;glass|metal|brick;glass|metal;Pista touch the surface
+N016;Naturals;arrastrar;Drag materials that are rough;stone|brick|glass;stone|brick;Pista rough is not smooth
+N017;Naturals;test;Which material is attracted by a magnet?;steel|wood|plastic;steel;
+N018;Naturals;verdadero_falso;A magnet attracts plastic;VERDADERO|FALSO;FALSO;
+N019;Naturals;verdadero_falso;Steel is attracted by a magnet;VERDADERO|FALSO;VERDADERO;
+N020;Naturals;test;Which object sinks in water?;metal bar|plastic ball|wood floor;metal bar;
+N021;Naturals;test;Which object floats in water?;plastic ball|stone|metal bar;plastic ball;
+N022;Naturals;verdadero_falso;Wood usually floats in water;VERDADERO|FALSO;VERDADERO;
+N023;Naturals;verdadero_falso;Stone usually floats in water;VERDADERO|FALSO;FALSO;
+N024;Naturals;arrastrar;Drag objects that float;plastic ball|wood|metal bar;plastic ball|wood;Pista think about water
+N025;Naturals;arrastrar;Drag objects that sink;stone|metal bar|plastic ball;stone|metal bar;
+N026;Naturals;test;What is a pure substance?;one material only|many materials mixed|liquid and solid;one material only;
+N027;Naturals;test;What is a homogeneous mixture?;same look everywhere|different parts seen|only solid;same look everywhere;
+N028;Naturals;test;What is a heterogeneous mixture?;different parts seen|same look everywhere|pure;different parts seen;
+N029;Naturals;verdadero_falso;Salt water is a homogeneous mixture;VERDADERO|FALSO;VERDADERO;
+N030;Naturals;verdadero_falso;Oil and water form a homogeneous mixture;VERDADERO|FALSO;FALSO;
+N031;Naturals;test;Which method separates a homogeneous mixture into liquid?;distillation|filtration|magnetism;distillation;
+N032;Naturals;test;Which method separates a heterogeneous mixture to liquid?;filtration|evaporation|distillation;filtration;
+N033;Naturals;test;Which method separates a homogeneous mixture to solid?;evaporation|magnetism|filtration;evaporation;
+N034;Naturals;test;Which method uses a magnet?;magnetism|filtration|distillation;magnetism;
+N035;Naturals;verdadero_falso;Filtration is used for homogeneous mixtures;VERDADERO|FALSO;FALSO;
+N036;Naturals;verdadero_falso;Evaporation changes liquid into solid;VERDADERO|FALSO;VERDADERO;
+N037;Naturals;arrastrar;Drag methods for heterogeneous mixtures;filtration|magnetism|distillation;filtration|magnetism;
+N038;Naturals;arrastrar;Drag methods for homogeneous mixtures;distillation|evaporation|magnetism;distillation|evaporation;
+N039;Naturals;test;Which mixture can be separated with magnetism?;iron and sand|salt and water|oil and water;iron and sand;
+N040;Naturals;test;Which mixture can be separated by filtration?;sand and water|salt and water|sugar and water;sand and water;
+N041;Naturals;test;Which mixture can be separated by evaporation?;salt and water|iron and sand|stones and wood;salt and water;
+N042;Naturals;verdadero_falso;Magnetism separates non metal substances;VERDADERO|FALSO;VERDADERO;
+N043;Naturals;verdadero_falso;Distillation separates solids from solids;VERDADERO|FALSO;FALSO;
+N044;Naturals;escribir;Write one waterproof material;;plastic;Pista think of water
+N045;Naturals;escribir;Write one absorbent material;;paper;
+N046;Naturals;escribir;Write one smooth material;;glass;
+N047;Naturals;escribir;Write one rough material;;stone;
+N048;Naturals;escribir;Write one magnetic material;;steel;
+N049;Naturals;ordenar;Order from rough to smooth;stone brick glass;stone brick glass;
+N050;Naturals;ordenar;Order from light to heavy in water;plastic ball wood metal bar;plastic ball wood metal bar;
+N051;Naturals;ordenar;Order separation methods from liquid to solid;distillation evaporation evaporation;
+N052;Naturals;ordenar;Order materials by hardness;paper wood metal;paper wood metal;
+N053;Naturals;test;Which material is toughest?;metal|paper|plastic;metal;
+N054;Naturals;test;Which material breaks easily?;glass|steel|brick;glass;
+N055;Naturals;verdadero_falso;Cement is used to build walls;VERDADERO|FALSO;VERDADERO;
+N056;Naturals;test;Which material is used with bricks?;cement|paper|plastic;cement;
+N057;Naturals;verdadero_falso;Plastic is usually smooth;VERDADERO|FALSO;VERDADERO;
+N058;Naturals;test;Which object is absorbent?;paper picture|glass door|metal bar;paper picture;
+N059;Naturals;test;Which object is waterproof?;glass door|paper picture|wood floor;glass door;
+N060;Naturals;arrastrar;Drag absorbent objects;paper picture|wood|glass;paper picture|wood;
+N061;Naturals;arrastrar;Drag waterproof objects;glass|plastic|paper;glass|plastic;
+N062;Naturals;test;Which material does not rust?;plastic|metal|steel;plastic;
+N063;Naturals;verdadero_falso;Steel is a type of metal;VERDADERO|FALSO;VERDADERO;
+N064;Naturals;test;Which material is transparent?;glass|wood|brick;glass;
+N065;Naturals;test;Which material is opaque?;wood|glass|plastic;wood;
+N066;Naturals;escribir;Name one transparent material;;glass;
+N067;Naturals;escribir;Name one opaque material;;wood;
+N068;Naturals;ordenar;Order materials from soft to hard;paper plastic metal;paper plastic metal;
+N069;Naturals;verdadero_falso;Plastic is heavier than metal;VERDADERO|FALSO;FALSO;
+N070;Naturals;test;Which material is flexible?;plastic|brick|glass;plastic;
+N071;Naturals;verdadero_falso;Wood is a natural material;VERDADERO|FALSO;VERDADERO;
+N072;Naturals;test;Which material is artificial?;plastic|wood|stone;plastic;
+N073;Naturals;arrastrar;Drag natural materials;wood|stone|plastic;wood|stone;
+N074;Naturals;arrastrar;Drag artificial materials;plastic|metal|wood;plastic|metal;
+N075;Naturals;test;Which material is used for floors?;wood|paper|glass;wood;
+N076;Naturals;verdadero_falso;A plastic ball usually floats;VERDADERO|FALSO;VERDADERO;
+N077;Naturals;test;Which material is used for pictures?;paper|metal|stone;paper;
+N078;Naturals;escribir;Write one material that sinks;;metal;
+N079;Naturals;escribir;Write one material that floats;;wood;
+N080;Naturals;test;Which material is best for windows?;glass|brick|wood;glass;
+N081;Naturals;verdadero_falso;Glass is absorbent;VERDADERO|FALSO;FALSO;
+N082;Naturals;test;Which material is strong and tough?;steel|paper|plastic;steel;
+N083;Naturals;arrastrar;Drag strong materials;steel|metal|paper;steel|metal;
+N084;Naturals;arrastrar;Drag weak materials;paper|glass|metal;paper|glass;
+N085;Naturals;test;Which method separates metal from sand?;magnetism|filtration|evaporation;magnetism;
+N086;Naturals;verdadero_falso;Filtration uses a filter;VERDADERO|FALSO;VERDADERO;
+N087;Naturals;test;Which method removes water by heat?;evaporation|magnetism|filtration;evaporation;
+N088;Naturals;test;Which method separates liquids?;distillation|magnetism|filtration;distillation;
+N089;Naturals;ordenar;Order steps of evaporation;liquid heat solid;liquid heat solid;
+N090;Naturals;ordenar;Order steps of filtration;mixture filter liquid;mixture filter liquid;
+N091;Naturals;verdadero_falso;Magnetism works only with metals;VERDADERO|FALSO;FALSO;
+N092;Naturals;test;Which metal is magnetic?;steel|aluminum|copper;steel;
+N093;Naturals;escribir;Write one use of magnetism;;separate metals;
+N094;Naturals;escribir;Write one example of homogeneous mixture;;salt water;
+N095;Naturals;escribir;Write one example of heterogeneous mixture;;sand and water;
+N096;Naturals;test;Which mixture has visible parts?;heterogeneous|homogeneous|pure;heterogeneous;
+N097;Naturals;verdadero_falso;Pure substances are mixtures;VERDADERO|FALSO;FALSO;
+N098;Naturals;test;Which is a pure substance?;gold|salt water|sand and iron;gold;
+N099;Naturals;ordenar;Order from absorbent to waterproof;paper wood plastic;paper wood plastic;
+N100;Naturals;verdadero_falso;Plastic is a material;VERDADERO|FALSO;VERDADERO;
+N101;Naturals;test;Which material is made from oil?;plastic|wood|glass;plastic;
+N102;Naturals;test;Which material is natural?;stone|plastic|cement;stone;
+N103;Naturals;verdadero_falso;Plastic comes from nature;VERDADERO|FALSO;FALSO;
+N104;Naturals;verdadero_falso;Wood is taken from trees;VERDADERO|FALSO;VERDADERO;
+N105;Naturals;test;Which material is used to build houses?;bricks|paper|plastic;bricks;
+N106;Naturals;test;Which material lets light pass?;glass|wood|metal;glass;
+N107;Naturals;test;Which material blocks light?;brick|glass|plastic;brick;
+N108;Naturals;arrastrar;Drag transparent materials;glass|plastic|brick;glass|plastic;
+N109;Naturals;arrastrar;Drag opaque materials;wood|brick|glass;wood|brick;
+N110;Naturals;test;Which surface feels smooth?;glass|stone|brick;glass;
+N111;Naturals;test;Which surface feels rough?;brick|metal|plastic;brick;
+N112;Naturals;verdadero_falso;Metal surfaces are always rough;VERDADERO|FALSO;FALSO;
+N113;Naturals;verdadero_falso;Stone can be rough;VERDADERO|FALSO;VERDADERO;
+N114;Naturals;test;Which object is flexible?;plastic ball|glass door|brick wall;plastic ball;
+N115;Naturals;test;Which object is rigid?;metal bar|paper picture|plastic bag;metal bar;
+N116;Naturals;arrastrar;Drag flexible objects;plastic ball|paper|metal bar;plastic ball|paper;
+N117;Naturals;arrastrar;Drag rigid objects;glass door|metal bar|plastic bag;glass door|metal bar;
+N118;Naturals;test;Which material is heavy?;steel|paper|plastic;steel;
+N119;Naturals;verdadero_falso;Paper is lighter than metal;VERDADERO|FALSO;VERDADERO;
+N120;Naturals;test;Which material breaks easily?;glass|plastic|metal;glass;
+N121;Naturals;test;Which material bends without breaking?;plastic|glass|brick;plastic;
+N122;Naturals;verdadero_falso;Glass is tough;VERDADERO|FALSO;FALSO;
+N123;Naturals;test;Which object absorbs water?;paper picture|metal bar|glass door;paper picture;
+N124;Naturals;verdadero_falso;Plastic absorbs water;VERDADERO|FALSO;FALSO;
+N125;Naturals;test;Which material keeps water out?;plastic|paper|stone;plastic;
+N126;Naturals;arrastrar;Drag absorbent materials;paper|wood|glass;paper|wood;
+N127;Naturals;arrastrar;Drag non absorbent materials;plastic|metal|paper;plastic|metal;
+N128;Naturals;test;Which object floats in water?;wood block|steel spoon|stone;wood block;
+N129;Naturals;test;Which object sinks in water?;stone|plastic ball|wood;stone;
+N130;Naturals;verdadero_falso;Heavy objects always sink;VERDADERO|FALSO;FALSO;
+N131;Naturals;arrastrar;Drag floating objects;plastic ball|wood|metal bar;plastic ball|wood;
+N132;Naturals;arrastrar;Drag sinking objects;stone|metal bar|plastic ball;stone|metal bar;
+N133;Naturals;test;Which material is magnetic?;steel|glass|plastic;steel;
+N134;Naturals;verdadero_falso;A magnet attracts wood;VERDADERO|FALSO;FALSO;
+N135;Naturals;test;Which material reacts to magnetism?;iron|paper|glass;iron;
+N136;Naturals;arrastrar;Drag magnetic materials;steel|iron|plastic;steel|iron;
+N137;Naturals;arrastrar;Drag non magnetic materials;wood|glass|metal;wood|glass;
+N138;Naturals;test;What is a mixture?;two or more materials together|one material only|only metal;two or more materials together;
+N139;Naturals;test;Which mixture looks the same everywhere?;homogeneous|heterogeneous|pure;homogeneous;
+N140;Naturals;test;Which mixture shows different parts?;heterogeneous|pure|homogeneous;heterogeneous;
+N141;Naturals;verdadero_falso;Homogeneous mixtures have visible parts;VERDADERO|FALSO;FALSO;
+N142;Naturals;verdadero_falso;Heterogeneous mixtures can be separated easily;VERDADERO|FALSO;VERDADERO;
+N143;Naturals;test;Which is not a mixture?;pure water|sand and water|iron and sand;pure water;
+N144;Naturals;test;Which method uses heat?;evaporation|filtration|magnetism;evaporation;
+N145;Naturals;test;Which method uses a filter?;filtration|distillation|magnetism;filtration;
+N146;Naturals;test;Which method uses boiling?;distillation|filtration|magnetism;distillation;
+N147;Naturals;verdadero_falso;Distillation separates liquids;VERDADERO|FALSO;VERDADERO;
+N148;Naturals;verdadero_falso;Filtration works with solids and liquids;VERDADERO|FALSO;VERDADERO;
+N149;Naturals;test;Which method separates sand from water?;filtration|evaporation|magnetism;filtration;
+N150;Naturals;test;Which method separates salt from water?;evaporation|magnetism|filtration;evaporation;
+N151;Naturals;test;Which method separates iron from rice?;magnetism|filtration|distillation;magnetism;
+N152;Naturals;arrastrar;Drag methods for solids and liquids;filtration|magnetism|distillation;filtration;
+N153;Naturals;arrastrar;Drag methods that use heat;distillation|evaporation|filtration;distillation|evaporation;
+N154;Naturals;ordenar;Order materials from light to heavy;paper plastic metal;paper plastic metal;
+N155;Naturals;ordenar;Order materials from rough to smooth;stone wood glass;stone wood glass;
+N156;Naturals;ordenar;Order steps of filtration;mixture filter clean water;mixture filter clean water;
+N157;Naturals;ordenar;Order steps of distillation;heat liquid vapor liquid;heat liquid vapor liquid;
+N158;Naturals;escribir;Write one artificial material;;plastic;
+N159;Naturals;escribir;Write one natural material;;wood;
+N160;Naturals;escribir;Write one magnetic object;;steel spoon;
+N161;Naturals;escribir;Write one object made of glass;;window;
+N162;Naturals;escribir;Write one object made of metal;;metal bar;
+N163;Naturals;escribir;Write one object that sinks;;stone;
+N164;Naturals;escribir;Write one object that floats;;plastic ball;
+N165;Naturals;escribir;Write one homogeneous mixture;;sugar water;
+N166;Naturals;escribir;Write one heterogeneous mixture;;oil and water;
+N167;Naturals;test;Which material is used to stick bricks?;cement|glass|plastic;cement;
+N168;Naturals;verdadero_falso;Cement is a material;VERDADERO|FALSO;VERDADERO;
+N169;Naturals;test;Which material is powdery?;cement|metal|glass;cement;
+N170;Naturals;test;Which material is shiny?;metal|paper|wood;metal;
+N171;Naturals;verdadero_falso;All metals are magnetic;VERDADERO|FALSO;FALSO;
+N172;Naturals;test;Which material does not absorb water?;glass|paper|wood;glass;
+N173;Naturals;arrastrar;Drag shiny materials;metal|glass|paper;metal|glass;
+N174;Naturals;arrastrar;Drag dull materials;wood|paper|metal;wood|paper;
+N175;Naturals;test;Which material is safest for windows?;glass|paper|brick;glass;
+N176;Naturals;verdadero_falso;Plastic can be recycled;VERDADERO|FALSO;VERDADERO;
+N177;Naturals;test;Which material can be recycled easily?;metal|paper|plastic;metal;
+N178;Naturals;ordenar;Order materials by absorbency;glass plastic paper;glass plastic paper;
+N179;Naturals;ordenar;Order objects by floating ability;metal wood plastic;metal wood plastic;
+N180;Naturals;test;Which material is hardest?;steel|plastic|paper;steel;
+N181;Naturals;verdadero_falso;Paper is a tough material;VERDADERO|FALSO;FALSO;
+N182;Naturals;test;Which material tears easily?;paper|metal|glass;paper;
+N183;Naturals;arrastrar;Drag breakable materials;glass|paper|metal;glass|paper;
+N184;Naturals;arrastrar;Drag unbreakable materials;metal|plastic|glass;metal|plastic;
+N185;Naturals;test;Which material is used for floors?;wood|glass|paper;wood;
+N186;Naturals;verdadero_falso;Wood is waterproof;VERDADERO|FALSO;FALSO;
+N187;Naturals;test;Which material feels cold to touch?;metal|wood|plastic;metal;
+N188;Naturals;test;Which material feels warm to touch?;wood|metal|glass;wood;
+N189;Naturals;escribir;Write one use of glass;;window;
+N190;Naturals;escribir;Write one use of plastic;;bottle;
+N191;Naturals;escribir;Write one use of metal;;tools;
+N192;Naturals;test;Which material is best for bottles?;plastic|paper|stone;plastic;
+N193;Naturals;verdadero_falso;Glass bottles are flexible;VERDADERO|FALSO;FALSO;
+N194;Naturals;test;Which material is strong and heavy?;steel|paper|plastic;steel;
+N195;Naturals;arrastrar;Drag building materials;bricks|cement|paper;bricks|cement;
+N196;Naturals;arrastrar;Drag non building materials;plastic ball|paper picture|cement;plastic ball|paper picture;
+N197;Naturals;ordenar;Order materials by strength;paper plastic metal;paper plastic metal;
+N198;Naturals;ordenar;Order separation methods by complexity;magnetism filtration distillation;magnetism filtration distillation;
+N199;Naturals;verdadero_falso;Separation methods help sort mixtures;VERDADERO|FALSO;VERDADERO;
+N200;Naturals;test;Which method is best for iron and sand?;magnetism|filtration|evaporation;magnetism;
+G001;Listening;listening;I like cats;Gato|Perro|Caballo;Gato;
+I201;Ingles;test;Choose the correct spelling;apple|appel|aple;apple;
+I202;Ingles;test;Choose the correct spelling;banana|bananna|bananah;banana;
+I203;Ingles;test;Choose the correct spelling;orange|oranje|orenge;orange;
+I204;Ingles;test;Choose the correct spelling;grape|graip|greip;grape;
+I205;Ingles;test;Choose the correct spelling;strawberry|strawbery|strawbarry;strawberry;
+I206;Ingles;test;Choose the correct spelling;pear|peer|peir;pear;
+I207;Ingles;test;Choose the correct spelling;melon|mellon|melone;melon;
+I208;Ingles;test;Choose the correct spelling;lemon|lemin|lemmn;lemon;
+I209;Ingles;test;Choose the correct spelling;peach|peech|pech;peach;
+I210;Ingles;test;Choose the correct spelling;plum|ploom|plam;plum;
+I211;Ingles;test;Choose the word with ai;rain|ran|rein;rain;
+I212;Ingles;test;Choose the word with ai;train|tren|trein;train;
+I213;Ingles;test;Choose the word with ai;paint|pent|pint;paint;
+I214;Ingles;test;Choose the word with ai;mail|mel|mill;mail;
+I215;Ingles;test;Choose the word with ai;tail|tel|tale;tail;
+I216;Ingles;test;Choose the word with ay;play|plai|pley;play;
+I217;Ingles;test;Choose the word with ay;day|dai|dei;day;
+I218;Ingles;test;Choose the word with ay;stay|stai|stei;stay;
+I219;Ingles;test;Choose the word with ay;gray|grai|grei;gray;
+I220;Ingles;test;Choose the word with ay;way|wai|wey;way;
+I221;Ingles;test;Choose the correct country name;Spain|Spane|Spein;Spain;
+I222;Ingles;test;Choose the correct country name;Canada|Caneda|Kanada;Canada;
+I223;Ingles;test;Choose the correct country name;Mexico|Mejico|Mexiko;Mexico;
+I224;Ingles;test;Choose the correct country name;Brazil|Brasil|Brazzil;Brazil;
+I225;Ingles;test;Choose the correct country name;China|Chaina|Chena;China;
+I226;Ingles;test;Choose the correct country name;India|Indea|Indya;India;
+I227;Ingles;test;Choose the correct country name;Poland|Polend|Polant;Poland;
+I228;Ingles;test;Choose the correct country name;UK|UQ|UC;UK;
+I229;Ingles;test;Choose the correct country name;USA|USa|Usa;USA;
+I230;Ingles;test;Choose the correct country name;New Zealand|New Zeland|New Zealend;New Zealand;
+I231;Ingles;test;Choose the correct word;his|hiz|hes;his;
+I232;Ingles;test;Choose the correct word;her|hir|hur;her;
+I233;Ingles;test;Choose the correct word;our|aur|or;our;
+I234;Ingles;test;Choose the correct word;their|thare|thear;their;
+I235;Ingles;test;Choose the correct spelling;these|theese|thes;these;
+I236;Ingles;test;Choose the correct spelling;those|thoose|thos;those;
+I237;Ingles;test;Choose the correct spelling;apple juice|apple joose|aple juice;apple juice;
+I238;Ingles;test;Choose the correct spelling;fruit salad|frut salad|fruit sallad;fruit salad;
+I239;Ingles;test;Choose the correct spelling;banana milkshake|banana milkshak|bananna milkshake;banana milkshake;
+I240;Ingles;test;Choose the correct spelling;grape juice|grap juice|graip juice;grape juice;
+I241;Ingles;test;Choose the correct spelling;playground|plai ground|pleyground;playground;
+I242;Ingles;test;Choose the correct spelling;rainy day|raine day|rany day;rainy day;
+I243;Ingles;test;Choose the correct spelling;stay home|stai home|stei home;stay home;
+I244;Ingles;test;Choose the correct spelling;train station|tren station|trein station;train station;
+I245;Ingles;test;Choose the correct spelling;paint box|pent box|pint box;paint box;
+I246;Ingles;test;Choose the correct spelling;day trip|dai trip|dei trip;day trip;
+I247;Ingles;test;Choose the correct spelling;gray cat|grai cat|grei cat;gray cat;
+I248;Ingles;test;Choose the correct spelling;mail box|mel box|mill box;mail box;
+I249;Ingles;test;Choose the correct spelling;tail fin|tel fin|tale fin;tail fin;
+I250;Ingles;test;Choose the correct spelling;way home|wai home|wey home;way home;
+I251;Ingles;test;Choose the correct spelling;his apple|hes apple|hiz apple;his apple;
+I252;Ingles;test;Choose the correct spelling;her bag|hir bag|hur bag;her bag;
+I253;Ingles;test;Choose the correct spelling;our house|aur house|or house;our house;
+I254;Ingles;test;Choose the correct spelling;their dog|thare dog|thear dog;their dog;
+I255;Ingles;test;Choose the correct spelling;these apples|theese apples|thes apples;these apples;
+I256;Ingles;test;Choose the correct spelling;those oranges|thoose oranges|thos oranges;those oranges;
+I257;Ingles;test;Choose the correct spelling;Spain flag|Spane flag|Spein flag;Spain flag;
+I258;Ingles;test;Choose the correct spelling;Canada map|Caneda map|Kanada map;Canada map;
+I259;Ingles;test;Choose the correct spelling;Mexico city|Mejico city|Mexiko city;Mexico city;
+I260;Ingles;test;Choose the correct spelling;Brazil fruit|Brasil fruit|Brazzil fruit;Brazil fruit;
+I261;Ingles;test;Choose the correct spelling;China food|Chaina food|Chena food;China food;
+I262;Ingles;test;Choose the correct spelling;India market|Indea market|Indya market;India market;
+I263;Ingles;test;Choose the correct spelling;Poland map|Polend map|Polant map;Poland map;
+I264;Ingles;test;Choose the correct spelling;UK flag|UQ flag|UC flag;UK flag;
+I265;Ingles;test;Choose the correct spelling;USA food|USa food|Usa food;USA food;
+I266;Ingles;test;Choose the correct spelling;New Zealand kiwi|New Zeland kiwi|New Zealend kiwi;New Zealand kiwi;
+I267;Ingles;test;Choose the correct spelling;apple pie|appel pie|aple pie;apple pie;
+I268;Ingles;test;Choose the correct spelling;banana cake|bananna cake|bananah cake;banana cake;
+I269;Ingles;test;Choose the correct spelling;orange juice|oranje juice|orenge juice;orange juice;
+I270;Ingles;test;Choose the correct spelling;grape tree|graip tree|greip tree;grape tree;
+I271;Ingles;test;Choose the correct spelling;strawberry ice cream|strawbery ice cream|strawbarry ice cream;strawberry ice cream;
+I272;Ingles;test;Choose the correct spelling;pear tree|peer tree|peir tree;pear tree;
+I273;Ingles;test;Choose the correct spelling;melon slice|mellon slice|melone slice;melon slice;
+I274;Ingles;test;Choose the correct spelling;lemon cake|lemin cake|lemmn cake;lemon cake;
+I275;Ingles;test;Choose the correct spelling;peach juice|peech juice|pech juice;peach juice;
+I276;Ingles;test;Choose the correct spelling;plum jam|ploom jam|plam jam;plum jam;
+I277;Ingles;test;Choose the correct spelling;play a game|plai a game|pley a game;play a game;
+I278;Ingles;test;Choose the correct spelling;rainy weather|raine weather|rany weather;rainy weather;
+I279;Ingles;test;Choose the correct spelling;stay happy|stai happy|stei happy;stay happy;
+I280;Ingles;test;Choose the correct spelling;train ticket|tren ticket|trein ticket;train ticket;
+I281;Ingles;test;Choose the correct spelling;paint wall|pent wall|pint wall;paint wall;
+I282;Ingles;test;Choose the correct spelling;day light|dai light|dei light;day light;
+I283;Ingles;test;Choose the correct spelling;gray sky|grai sky|grei sky;gray sky;
+I284;Ingles;test;Choose the correct spelling;mail letter|mel letter|mill letter;mail letter;
+I285;Ingles;test;Choose the correct spelling;tail animal|tel animal|tale animal;tail animal;
+I286;Ingles;test;Choose the correct spelling;way out|wai out|wey out;way out;
+I287;Ingles;test;Choose the correct spelling;his bag|hes bag|hiz bag;his bag;
+I288;Ingles;test;Choose the correct spelling;her book|hir book|hur book;her book;
+I289;Ingles;test;Choose the correct spelling;our school|aur school|or school;our school;
+I290;Ingles;test;Choose the correct spelling;their house|thare house|thear house;their house;
+I291;Ingles;test;Choose the correct spelling;these books|theese books|thes books;these books;
+I292;Ingles;test;Choose the correct spelling;those cars|thoose cars|thos cars;those cars;
+I293;Ingles;test;Choose the correct spelling;Spain food|Spane food|Spein food;Spain food;
+I294;Ingles;test;Choose the correct spelling;Canada flag|Caneda flag|Kanada flag;Canada flag;
+I295;Ingles;test;Choose the correct spelling;Mexico map|Mejico map|Mexiko map;Mexico map;
+I296;Ingles;test;Choose the correct spelling;Brazil music|Brasil music|Brazzil music;Brazil music;
+I297;Ingles;test;Choose the correct spelling;China wall|Chaina wall|Chena wall;China wall;
+I298;Ingles;test;Choose the correct spelling;India food|Indea food|Indya food;India food;
+I299;Ingles;test;Choose the correct spelling;Poland city|Polend city|Polant city;Poland city;
+I300;Ingles;test;Choose the correct spelling;UK capital|UQ capital|UC capital;UK capital;
+I301;Ingles;ordenar;Order the sentence;These|are|apples;These|are|apples;
+I302;Ingles;ordenar;Order the sentence;Those|are|bananas;Those|are|bananas;
+I303;Ingles;ordenar;Order the sentence;This|is|his|apple;This|is|his|apple;
+I304;Ingles;ordenar;Order the sentence;That|is|her|bag;That|is|her|bag;
+I305;Ingles;ordenar;Order the sentence;These|are|our|books;These|are|our|books;
+I306;Ingles;ordenar;Order the sentence;Those|are|their|fruits;Those|are|their|fruits;
+I307;Ingles;ordenar;Order the sentence;He|is|from|Spain;He|is|from|Spain;
+I308;Ingles;ordenar;Order the sentence;They|are|from|Brazil;They are from Brazil;
+I309;Ingles;ordenar;Order the sentence;She|is|from|Canada;She|is|from|Canada;
+I310;Ingles;ordenar;Order the sentence;We|are|from|Mexico;We|are|from|Mexico;
+I311;Ingles;ordenar;Order the sentence;These|are|oranges;These|are|oranges;
+I312;Ingles;ordenar;Order the sentence;Those|are|pears;Those|are|pears;
+I313;Ingles;ordenar;Order the sentence;This|is|our|school;This|is|our|school;
+I314;Ingles;ordenar;Order the sentence;That|is|their|house;That|is|their|house;
+I315;Ingles;ordenar;Order the sentence;His|apple|is|red;His|apple|is|red;
+I316;Ingles;ordenar;Order the sentence;Her|bag|is|blue;Her|bag|is|blue;
+I317;Ingles;ordenar;Order the sentence;Our|country|is|Spain;Our|country|is|Spain;
+I318;Ingles;ordenar;Order the sentence;Their|country|is|India;Their|country|is|India;
+I319;Ingles;ordenar;Order the sentence;These|fruits|are|sweet;These|fruits|are|sweet;
+I320;Ingles;ordenar;Order the sentence;Those|apples|are|big;Those|apples|are|big;
+I321;Ingles;ordenar;Order the sentence;This|fruit|is|from|Spain;This|fruit|is|from|Spain;
+I322;Ingles;ordenar;Order the sentence;Those|fruits|are|from|Brazil;Those|fruits|are|from|Brazil;
+I323;Ingles;ordenar;Order the sentence;He|likes|apples;He|likes|apples;
+I324;Ingles;ordenar;Order the sentence;She|likes|bananas;She|likes|bananas;
+I325;Ingles;ordenar;Order the sentence;We|like|fruit;We|like|fruit;
+I326;Ingles;ordenar;Order the sentence;They|like|oranges;They|like|oranges;
+I327;Ingles;ordenar;Order the sentence;These|are|his|shoes;These|are|his|shoes;
+I328;Ingles;ordenar;Order the sentence;Those|are|her|books;Those|are|her|books;
+I329;Ingles;ordenar;Order the sentence;This|is|their|class;This|is|their|class;
+I330;Ingles;ordenar;Order the sentence;That|is|our|city;That|is|our|city;
+I331;Ingles;test;Choose the correct word for near objects;these|those;these;
+I332;Ingles;test;Choose the correct word for far objects;these|those;those;
+I333;Ingles;test;___ are apples near you;These|Those;These;
+I334;Ingles;test;___ are bananas far away;These|Those;Those;
+I335;Ingles;test;Choose the correct verb. These ___ apples;is|are;are;
+I336;Ingles;test;Choose the correct verb. This ___ an apple;is|are;is;
+I337;Ingles;test;Choose the correct possessive. The boy has an apple. It is ___ apple;his|her;his;
+I338;Ingles;test;Choose the correct possessive. The girl has a bag. It is ___ bag;her|his;her;
+I339;Ingles;test;Choose the correct possessive. We have a school. It is ___ school;our|their;our;
+I340;Ingles;test;Choose the correct possessive. They have books. They are ___ books;their|our;their;
+I341;Ingles;test;Choose the correct sentence;These is apples|These are apples;These are apples;
+I342;Ingles;test;Choose the correct sentence;Those are apple|Those are apples;Those are apples;
+I343;Ingles;test;Choose the correct option. She ___ from Spain;is|are;is;
+I344;Ingles;test;Choose the correct option. They ___ from Brazil;is|are;are;
+I345;Ingles;test;Choose the correct sentence;He is from Canada|He are from Canada;He is from Canada;
+I346;Ingles;test;Choose the correct sentence;We are from Mexico|We is from Mexico;We are from Mexico;
+I347;Ingles;test;Choose the correct option: ___ are our apples;These|This;These;
+I348;Ingles;test;Choose the correct option: ___ is her bag;That|Those;That;
+I349;Ingles;test;Choose the correct sentence;This are oranges|This is an orange;This is an orange;
+I350;Ingles;test;Choose the correct sentence;Those is bananas|Those are bananas;Those are bananas;
+I351;Ingles;test;Choose the correct option: Our country ___ Spain;is|are;is;
+I352;Ingles;test;Choose the correct option: Their fruits ___ fresh;is|are;are;
+I353;Ingles;test;Choose the correct sentence;These are their books|These is their books;These are their books;
+I354;Ingles;test;Choose the correct option: ___ are his shoes;Those|That;Those;
+I355;Ingles;test;Choose the correct option: ___ is our class;This|These;This;
+I356;Ingles;test;The boy has a bike. It is ___ bike;his|her;his;
+I357;Ingles;test;The girl has a hat. It is ___ hat;her|his;her;
+I358;Ingles;test;The boys have bags. They are ___ bags;their|his;their;
+I359;Ingles;test;The girls have books. They are ___ books;their|her;their;
+I360;Ingles;test;The boy has shoes. They are ___ shoes;his|her;his;
+I361;Ingles;test;The girl has apples. They are ___ apples;her|his;her;
+I362;Ingles;test;The family has a house. It is ___ house;their|his;their;
+I363;Ingles;test;The children have toys. They are ___ toys;their|our;their;
+I364;Ingles;test;Choose the correct sentence;His books are blue|His book are blue;His books are blue;
+I365;Ingles;test;Choose the correct sentence;Her apples is red|Her apples are red;Her apples are red;
+I366;Ingles;test;Choose the correct sentence;Their bag is big|Their bags are big;Their bags are big;
+I367;Ingles;test;Choose the correct sentence;His shoes is new|His shoes are new;His shoes are new;
+I368;Ingles;test;Choose the correct option: His apple ___ red;is|are;is;
+I369;Ingles;test;Choose the correct option: Her apples ___ red;is|are;are;
+I370;Ingles;test;Choose the correct option: Their books ___ here;is|are;are;
+I371;Ingles;test;Choose the correct sentence;Her book are green|Her books are green;Her books are green;
+I372;Ingles;test;Choose the correct sentence;His apples is tasty|His apples are tasty;His apples are tasty;
+I373;Ingles;test;Choose the correct sentence;Their toy is small|Their toys are small;Their toys are small;
+I374;Ingles;test;Choose the correct option: The girl has bags They are ___ bags;her|his;her;
+I375;Ingles;test;Choose the correct option: The boy has apples They are ___ apples;his|her;his;
+I376;Ingles;verdadero_falso;His book are red;Verdadero|Falso;FALSO;
+I377;Ingles;verdadero_falso;Her apples are sweet;Verdadero|Falso;VERDADERO;
+I378;Ingles;verdadero_falso;Their bag is blue;Verdadero|Falso;FALSO;
+I379;Ingles;verdadero_falso;Their bags are blue;Verdadero|Falso;VERDADERO;
+I380;Ingles;verdadero_falso;His shoes is new;Verdadero|Falso;FALSO;
+I381;Ingles;verdadero_falso;His shoes are new;Verdadero|Falso;VERDADERO;
+I382;Ingles;verdadero_falso;Her book is green;Verdadero|Falso;VERDADERO;
+I383;Ingles;verdadero_falso;Her books is green;Verdadero|Falso;FALSO;
+I384;Ingles;verdadero_falso;Their toys are small;Verdadero|Falso;VERDADERO;
+I385;Ingles;verdadero_falso;Their toy are small;Verdadero|Falso;FALSO;
+I386;Ingles;verdadero_falso;The boy has apples. They are his apples;Verdadero|Falso;VERDADERO;
+I387;Ingles;verdadero_falso;The girl has apples. They are his apples;Verdadero|Falso;FALSO;
+I388;Ingles;verdadero_falso;The girls have bags. They are her bags;Verdadero|Falso;FALSO;
+I389;Ingles;verdadero_falso;The girls have bags. They are their bags;Verdadero|Falso;VERDADERO;
+I390;Ingles;arrastrar;Drag the correct possessive to the sentence;his|her;The boy has a hat. It is ___ hat;his;
+I391;Ingles;arrastrar;Drag the correct possessive to the sentence;his|her;The girl has a bike. It is ___ bike;her;
+I392;Ingles;arrastrar;Drag the correct possessive to the sentence;his|her;The boy has shoes. They are ___ shoes;his;
+I393;Ingles;arrastrar;Drag the correct possessive to the sentence;his|her;The girl has apples. They are ___ apples;her;
+I394;Ingles;arrastrar;Drag the correct possessive to the sentence;our|their;The children have toys. They are ___ toys;their;
+I395;Ingles;arrastrar;Drag the correct possessive to the sentence;our|their;We have a school. It is ___ school;our;
+I396;Ingles;arrastrar;Drag is or are to the sentence;is|are;His apple ___ red;is;
+I397;Ingles;arrastrar;Drag is or are to the sentence;is|are;Her apples ___ red;are;
+I398;Ingles;arrastrar;Drag is or are to the sentence;is|are;Their bags ___ heavy;are;
+I399;Ingles;arrastrar;Drag is or are to the sentence;is|are;His book ___ blue;is;
+I400;Ingles;verdadero_falso;His apples are on the table;Verdadero|Falso;VERDADERO;
+I401;Ingles;verdadero_falso;Her shoes is black;Verdadero|Falso;FALSO;
+I402;Ingles;verdadero_falso;Their books are here;Verdadero|Falso;VERDADERO;
+I403;Ingles;verdadero_falso;Their book are here;Verdadero|Falso;FALSO;
